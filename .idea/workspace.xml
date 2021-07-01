@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github3" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:help_now" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:socialchain" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25d25133-2e56-417d-ba2c-105454fcbff2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../addexample/lib/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addexample/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addexample/lib/next_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/Addalarm.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/AlarmInfo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/Data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/addState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/alarmHelper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alarm/lib/alarm_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/kotlin/com/example/help_now/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/fonts/AkayaTelivigala-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/fonts/IndieFlower-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/integration_test/app_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/integration_test/driver.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/lib/Database.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/lib/MyHomePage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/lib/Splash.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/lib/dataModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help_now/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myroom2" beforeDir="false" afterPath="$PROJECT_DIR$/../myroom2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/kotlin/com/example/sigma_tenat/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/integration_test/app_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/integration_test/driver.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/lib/MyHomePage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/lib/dataModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/lib/data_provider_api.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/lib/db_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sigma_tenat/web/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[z5byv8vsovmf45cm]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1tkqY800PxRlk3szUy3GqxB1Hwj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Pages/Chatiing/Screens" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d25133-2e56-417d-ba2c-105454fcbff2" name="Default Changelist" comment="" />
+      <created>1623323479333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623323479333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="286" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624696546360">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="693" y="286" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1624696546360" />
+    <state x="823" y="438" width="409" height="317" key="Github.ShareDialog" timestamp="1625134206853">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="823" y="438" width="409" height="317" key="Github.ShareDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1625134206853" />
+    <state x="698" y="209" width="514" height="658" key="Github.UntrackedFilesDialog" timestamp="1625134228178">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="698" y="209" width="514" height="658" key="Github.UntrackedFilesDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1625134228178" />
+    <state width="1874" height="264" key="GridCell.Tab.0.bottom" timestamp="1625134270229">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1625134270229" />
+    <state width="1874" height="264" key="GridCell.Tab.0.center" timestamp="1625134270227">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.center/0.24.1920.1032@0.24.1920.1032" timestamp="1625134270227" />
+    <state width="1874" height="264" key="GridCell.Tab.0.left" timestamp="1625134270227">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.left/0.24.1920.1032@0.24.1920.1032" timestamp="1625134270227" />
+    <state width="1874" height="264" key="GridCell.Tab.0.right" timestamp="1625134270228">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.right/0.24.1920.1032@0.24.1920.1032" timestamp="1625134270228" />
+    <state x="449" y="173" key="SettingsEditor" timestamp="1625133941398">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="449" y="173" key="SettingsEditor/0.24.1920.1032@0.24.1920.1032" timestamp="1625133941398" />
+    <state x="100" y="120" width="1720" height="836" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624696290603">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="100" y="120" width="1720" height="836" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.24.1920.1032@0.24.1920.1032" timestamp="1624696290603" />
+    <state x="742" y="220" width="426" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625134079203">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="742" y="220" width="426" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1625134079203" />
+  </component>
+</project>
